@@ -79,12 +79,6 @@ Analyzed IPL datasets to identify player and team performance patterns and devel
 
 **Tools:** Python, SQL, Power BI, Data Analysis
 
-### 🤖 AI-Powered Workflow Automation
-
-Built an AI-powered workflow using **n8n, Google Gemini, Google Sheets, and external APIs** to automate content-processing workflows and reduce repetitive manual tasks.
-
-**Tools:** n8n, Gemini, APIs, Google Sheets
-
 ## 🔍 What I Practice
 
 * Data Cleaning & Preprocessing
@@ -95,7 +89,6 @@ Built an AI-powered workflow using **n8n, Google Gemini, Google Sheets, and exte
 * Dashboard Development
 * Business Insights
 * Data Visualization
-* Workflow Automation
 
 ## 🎯 Career Interests
 
